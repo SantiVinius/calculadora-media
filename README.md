@@ -1,6 +1,6 @@
 # Calculadora de Média
 
-Projeto desenvolvido no dia 1 da Imersão Dev, evento promovido pela Alura.
+Projeto desenvolvido no dia 1 da Imersão Dev, evento promovido pela Alura com foco em Javascript.
 
 ## Alguns desafios propostos
 
